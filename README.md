@@ -1,1 +1,2 @@
-## GUI application to calculate mathematical expression entered by user
+## GUI application
+### Calculates mathematical expression entered by user

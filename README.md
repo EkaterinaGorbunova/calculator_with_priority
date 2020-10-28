@@ -1,2 +1,1 @@
-# calculator_with_priority
- 
+# GUI application calculates the expression as user input

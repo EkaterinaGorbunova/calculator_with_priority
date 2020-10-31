@@ -1,2 +1,2 @@
-# calculator_with_priority
- 
+## GUI application
+Calculates mathematical expression entered by user

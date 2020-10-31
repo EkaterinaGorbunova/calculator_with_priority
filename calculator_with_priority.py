@@ -41,8 +41,6 @@ def calculation():
 
         while i < (len(elements) - 2):
             
-            # print("value = " + str(elements[i]) + ". i = " + str(i) + ". Lists' length = " + str (len(elements)))
-
             if elements[i+1] == "*":
                 element_to_add = mul(elements [i], elements[i+2])
                 elements.pop(i)

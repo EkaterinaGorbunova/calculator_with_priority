@@ -1,4 +1,4 @@
-## GUI application
+## GUI Python application
 Calculates mathematical expression entered by the user.
 The app takes into account extra spaces and the priority of mathematical operations.
 #### Step 1. User input of an expression
